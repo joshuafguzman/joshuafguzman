@@ -1,9 +1,9 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman">Programmer</a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Adventure Game in Java</b>
+- <b></b>
    
-  - [Learned to save and load using serialization](https://github.com/joshuafguzman/AdventureGame)
+  - []()
 
 
 <h2> 🤳 Connect with me:</h2>
