@@ -1,10 +1,9 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman">Programmer</a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Black Jack Game</b>
    
   - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
-
+  - [Merge Sorter]()
 
 <h2> 🤳 Connect with me:</h2>
 
