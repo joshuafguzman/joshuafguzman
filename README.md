@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
    
   - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
-  - [Merge Sorter]()
+  - [Merge Sorter](https://github.com/joshuafguzman/Merge-Sorter)
 
 <h2> 🤳 Connect with me:</h2>
 
