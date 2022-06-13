@@ -4,6 +4,7 @@
    
   - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
   - [Merge Sorter](https://github.com/joshuafguzman/Merge-Sorter)
+  - [Recursive Methods](https://github.com/joshuafguzman/Recursive-methods)
 
 <h2> 🤳 Connect with me:</h2>
 
