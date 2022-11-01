@@ -6,7 +6,7 @@
   - [Merge Sorter](https://github.com/joshuafguzman/Merge-Sorter)
   - [Recursive Methods](https://github.com/joshuafguzman/Recursive-methods)
   - [Sudoku Solver in Python](https://github.com/joshuafguzman/SudukoSolver/blob/main/SudokuSolver.py)
-  - [Captcha Generator in HTML, CSS, JS](https://github.com/joshuafguzman/CaptchaGenerator)
+  - [Bot Detector in HTML, CSS, JS](https://github.com/joshuafguzman/CaptchaGenerator)
 
 <h2> 🤳 Connect with me:</h2>
 
