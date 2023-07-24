@@ -1,7 +1,8 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman">Programmer</a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-   
+
+  - [File Transfer Solution in Powershell](https://github.com/joshuafguzman/File-Transfer-Solution)
   - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
   - [Merge Sorter](https://github.com/joshuafguzman/Merge-Sorter)
   - [Recursive Methods](https://github.com/joshuafguzman/Recursive-methods)
