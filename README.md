@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman">Programmer</a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman"></a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
