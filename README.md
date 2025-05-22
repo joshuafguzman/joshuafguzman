@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 
+  - [ Excel to SQL Insert Automation Script](https://github.com/joshuafguzman/Python-csv-xlsx-sql-inserts-converter)
   - [Customer Churn Dashboard](https://github.com/joshuafguzman/Customer-Churn-Dashboard/blob/main/README.md)
   - [SQL Insert Statements](https://github.com/joshuafguzman/SQL_Inserts/tree/main)
   - [File Transfer Solution in Powershell](https://github.com/joshuafguzman/File-Transfer-Solution)
