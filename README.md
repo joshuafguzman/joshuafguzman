@@ -1,7 +1,8 @@
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman"></a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Development Projects:</h2>
 
+  - [Customer Churn Dashboard](https://github.com/joshuafguzman/Customer-Churn-Dashboard/blob/main/README.md)
   - [SQL Insert Statements](https://github.com/joshuafguzman/SQL_Inserts/tree/main)
   - [File Transfer Solution in Powershell](https://github.com/joshuafguzman/File-Transfer-Solution)
   - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
