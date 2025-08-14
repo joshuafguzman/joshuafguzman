@@ -1,22 +1,16 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman"></a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></h1>
+<h1><p align="center">Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman"></a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></p></h1> 
+
+<h3><p align="center">IT Business Partner at Textron Systems with 4 years in the tech industry</p></h3>
+
+<h2></h2>
 
 <h2>👨‍💻 Development Projects:</h2>
 
-  - [ Excel to SQL Insert Automation Script](https://github.com/joshuafguzman/Python-csv-xlsx-sql-inserts-converter)
-  - [Customer Churn Dashboard](https://github.com/joshuafguzman/Customer-Churn-Dashboard/blob/main/README.md)
-  - [SQL Insert Statements](https://github.com/joshuafguzman/SQL_Inserts/tree/main)
-  - [File Transfer Solution in Powershell](https://github.com/joshuafguzman/File-Transfer-Solution)
-  - [BlackJack Game coded in Java](https://github.com/joshuafguzman/BlackJack-Game)
-  - [Merge Sorter](https://github.com/joshuafguzman/Merge-Sorter)
-  - [Recursive Methods](https://github.com/joshuafguzman/Recursive-methods)
-  - [Sudoku Solver in Python](https://github.com/joshuafguzman/SudukoSolver/blob/main/SudokuSolver.py)
-  - [Bot Detector in HTML, CSS, JS](https://github.com/joshuafguzman/CaptchaGenerator)
+  - All my personal projects are [here](https://github.com/joshuafguzman?tab=repositories)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshGuzman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [Linkedin](https://www.linkedin.com/in/joshua-guzman-4031841b8/)
 
 
-
-[linkedin]: https://www.linkedin.com/in/joshua-guzman-4031841b8/
 
