@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 
-  - All my personal projects are [here](https://github.com/joshuafguzman?tab=repositories)
+  - All my projects are [here](https://github.com/joshuafguzman?tab=repositories)
 
 <h2> 🤳 Connect with me:</h2>
 
