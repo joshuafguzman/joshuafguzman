@@ -1,6 +1,6 @@
 <h1><p align="center">Hi, I'm Josh! <br/><a href="https://github.com/joshuafguzman"></a> <a href="https://www.linkedin.com/in/joshua-guzman-4031841b8/"></p></h1> 
 
-<h3><p align="center">IT Business Partner at Textron Systems with 4 years in the tech industry</p></h3>
+<h3><p align="center">Cyber Security Analyst at Textron Systems with 4+ years in the tech industry</p></h3>
 
 <h2></h2>
 
